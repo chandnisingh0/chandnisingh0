@@ -22,7 +22,7 @@
 
 ------------------------------------------------------------
 
-## 🧠 Technical Skills (Grouped)
+## 🧠 Technical Skills
 
 **Languages:**  
 Python · PHP · Java · JavaScript (jQuery, Ajax) · C · C++
